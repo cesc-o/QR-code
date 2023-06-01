@@ -29,15 +29,13 @@ img {
 }
 
 #image {
-    border: 5px solid black;
     margin: 15px 15px 0 15px;
     border-radius: 10px;
     overflow: hidden;
 }
 
 p {
-    border: 1px solid red;
-    margin: 0;
+    margin: 10px;
     /* padding: 5px; */
 }
 div p:first-child {
@@ -50,7 +48,6 @@ div p:nth-child(2n) {
 }
 
 #text {
-    border: 5px solid black;
     margin: 0 15px 10px 15px;
     padding: 0;
     text-align: center;
